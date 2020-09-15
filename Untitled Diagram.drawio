@@ -1,1 +1,269 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T23:41:30.785Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.10" etag="5GmPKjWmngIGRYijoSUR" type="github"><diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">7Z1dU6M8FMc/TW93SnhpudS26l7srKPO7HUKKc1ISSeA2ufTPwGS0pDUthbQAbxw7SGEJP9fknMOcR2Zs83HPYXb9R/io3AExv7HyJyPAABTG7B/MsuusBimOy4sAcU+t5WGZ/wf4kZRLMU+iqWCCSFhgrey0SNRhLxEskFKybtcbEVC+albGCDF8OzBUFh/2aX9H/aTNbcbjlteeEA4WPOHT8GkuLCE3mtASRrxJ46Aucq/issbKOriXY3X0CfvByZzMTJnlJCk+GnzMUNhNrxi4Ir77o5c3feHoig55wYu1RsMU9752eIvb1qyEwOSdwhltxgj83aFw3BGQkLzi6Yxnpguq/w2Tih5ReJKRCKUGUUHszsDCn3MWlYpsyJR8syfZvDPBw+4y79EuYIWw2Kf1c7y/r8hmqCPAxPv/D0iG5TQHSvCrzoTPgKcVTC2hfjvpfBgzOVaH2jucBvktAX7ysvxZj/wIdcPv6kM/xxt0yRr4BxTxjYbgx6J4chimJZWDNCQGJYixt/VCnuI2Qibv+wJTj7CrLP/CH3dhjC/9kzCNMEkinuklDmWlbLsVqeNfUKpx3QZYo/98IRC2DdtbOtbtXHUHYUNdZz7CHP8hmMmR4/UmE6+VY2JRg2yRTSfFT2SwQDfq8NU0eEmguEuxrG8sfRwhjDnWVLGAa0q457YS+5DsoTZDc/pdkto0mNlJu06xyIcPMchu2VxV0LZN2YuZ1Z/lXLbVcpQlGJxDKTJJuuSqtYDSimOk9xFG6bVdNquWGrML0+r31HC7sABinLbgW6DVu6kXa3UBMHvl367C7YtK+IY7SqiZgnmMIFLGGdz5cbf4IitbL3zr6uqtO0qnMoIvCBvHbGhCHbyivaEYgSpt+6zVC37CmqCQJKqXNvYtMr8A0Tf2NU+eXNVhdp2ENRg9Q+MYIC4N/dICRuzzRC5TiuZtra3olOh6x2OYOThPHo9UOpQzN5q1fIGBU7Fsg/pBrK5M2YbEklpv9Y7RZt2dySgRq+yNtLq12NdWt6HwKlA9YVC5m1HQT+9hKo6LYemmnfXTyhIQ5gQWnGyYeQzwyJaEbaw8WnUQ3fBGLvf6i+cfMEt6fdIQuzt+ixP2y7CJzHsjGy2IYZ5Qq7HgrTsF5yIVA+XOGlx669CbXsI6uttfS6hurj1L5GtSNW2u6AGq8roIz9AYnhQuCTvi9JwmxvYhazL2GMxrdBBHNDMBgpF/k12AJR9XIbEey1Mdzhr1n7EDxWQpWQaANOy7PlnY17EZ7xXhSmBNEC8FHeLsr6cowuQVTEcnSqGTpW9UScLf94jwbm3pX8YKB8m6ig6x28r1VVqMo63W1RVDIpSVQ7KfhzOOyWpBs8dYMdU2bEHdmpnRw3uu8mONbBTOztqAqKb7DgDO7Wzo6ZHfgI7PozXe/+2fudnMoD0KUhMLLg7KLbNCsTH22yMK78SAfYhcIlmUemXQVWzQj8B1PoXuenAZq1sVt9S23btaKrhfTfRHILGmtl0J42zqR6S6ACbU5VN9zI0nTbRrG6OV6B5vN0N+IadzIW5KjviBP9X4dGmKJuCZ1IfPGpV9cFjdTIZJkiR6DGuo0f7LqIpeqb10aNWVSM9nUyHCVIkesB19GjfNTZFj1sfPWpVNdIDOkmPxiMXx/wHt6dGen5mSuxaeiwNPRe+yBn8njPo6WSeSpAi0XNhOn7we86gRz3L0wV6NPG6cWHAXsmUNLtzVf+3pSt2ruPtboCeTiYiDU3EDi6M2KsqNLpzVem5Yuc63u4G6OlkqhBoInZwYcReVaHRnatKzxU71/F2N0BPJ5OFQBOxi459lZ5GI/YqPVdE7MfbXT89diezhdp3aBdG7IPfcwY9ncwWAk3EfunRy8HvOYMe0El6NBH7pQfoBr/nDHo6mS0UpEj0XHhqbvB7zqCnk9lC3YuK4ehQvUeHnMaPtdnqL3p2lM3hyGXNx9qsmtlkH8u/NVAUL/+mg7n4Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-15T00:40:28.918Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9kh7e0vPdYMjSD7-Qhpr" version="13.6.10" type="github">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="2170" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="SABERES DIGITALES MÍNIMOS PARA LOS DOCENTES DE EDUCACIÓN MEDIA SUPERIOR A&#xa;PARTIR DE LA USABILIDAD DE LA TIC" style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=10;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="590" y="160" width="450" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Impartir clases con las &#xa;estrategia didácticas." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Requiere un análisis de los&#xa;saberes" style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=12;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Deberán cubrir para ser parte &#xa;de la transformacion&#xa;tecnológica. " style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="La utilizad de las TIC" style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="872" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-58" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontSize=12;fontColor=#1A1A1A;" edge="1" parent="1" source="7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-60" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#09555B;fontSize=12;fontColor=#1A1A1A;" edge="1" parent="1" source="7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1560" y="630" />
+              <mxPoint x="1760" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="Este nivel educativo plantea un perfil docente&#xa;no sólo como un facilitador de las asignaturas que imparten&#xa;si no como la innovación educativa que vivimos actualmente&#xa;con el uso de las tecnologías de información y comunicación.  " style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=12;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="455.5" width="360" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Herramientas &#xa;tecnológicas de una&#xa;manera accesible." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="282" y="625.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Aprendizaje, satisfacción,&#xa; control de errores,&#xa;etc" style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=12;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="282" y="705.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Permite ademas incorporarlas&#xa;a la practica educativa." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="270" y="795.5" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Reconociendo y valorando&#xa;su potencialidad." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="282" y="885.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Dominio de saberes &#xa;básicos.  " style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="282" y="975.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Conforma un perfil docente " style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="552" y="615.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Experiencia del usuario en&#xa;la interacción tecnológica" style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="552" y="705.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Pedagogía cuando el&#xa;docente hace utilidad de &#xa;dichos recursos. " style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="552" y="795.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Los recursos didacticos en&#xa;comun proporcionan a los&#xa;educadores nuevas formas&#xa;de aprendizaje." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="820" y="615.5" width="240" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Posibilidad para el cambio&#xa;de sus estrategias de &#xa;enseñanza." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="842" y="705.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Nuevos conocimientos y&#xa;habilidades emergen el día&#xa;de hoy." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="842" y="795.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Conformar lo que llamamos&#xa;Principios pedagógicos &#xa;de usabilidad." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="842" y="885.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Establecer la correlación con &#xa;los criterios pedagógicos&#xa;de este constructo." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="842" y="975.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Saberes digitales minimos." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="615.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Las competencias a &#xa;desarrollar para vivir en la&#xa;era digital." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="705.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="Lograr que el docente &#xa;desarrolle la competencia&#xa;en el uso de la tecnología." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="795.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Incorporar el uso de las TIC&#xa;en la vida cotidiana del&#xa;docente." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="885.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="LOGRAR EL USO DE LA&#xa;TECNOLOGIA." style="rounded=1;strokeColor=none;shadow=1;fontStyle=1;fontSize=14;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="975.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="6" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1062" y="295.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="8" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="552" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="23" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="8" target="9" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="265.5" as="sourcePoint" />
+            <mxPoint x="162" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="9" target="10" edge="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="275.5" as="sourcePoint" />
+            <mxPoint x="162" y="175.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="10" target="11" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="285.5" as="sourcePoint" />
+            <mxPoint x="162" y="185.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="11" target="12" edge="1">
+          <mxGeometry x="62" y="195.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="295.5" as="sourcePoint" />
+            <mxPoint x="162" y="195.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="13" target="14" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="265.5" as="sourcePoint" />
+            <mxPoint x="162" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="14" target="15" edge="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="275.5" as="sourcePoint" />
+            <mxPoint x="162" y="175.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="18" edge="1">
+          <mxGeometry x="72" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="265.5" as="sourcePoint" />
+            <mxPoint x="942" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="19" target="20" edge="1">
+          <mxGeometry x="72" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="275.5" as="sourcePoint" />
+            <mxPoint x="172" y="175.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="20" target="21" edge="1">
+          <mxGeometry x="72" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="285.5" as="sourcePoint" />
+            <mxPoint x="172" y="185.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="21" target="22" edge="1">
+          <mxGeometry x="72" y="195.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="295.5" as="sourcePoint" />
+            <mxPoint x="172" y="195.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="23" target="24" edge="1">
+          <mxGeometry x="72" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="265.5" as="sourcePoint" />
+            <mxPoint x="172" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="24" target="25" edge="1">
+          <mxGeometry x="72" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="275.5" as="sourcePoint" />
+            <mxPoint x="172" y="175.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="25" target="26" edge="1">
+          <mxGeometry x="72" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="285.5" as="sourcePoint" />
+            <mxPoint x="172" y="185.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="26" target="27" edge="1">
+          <mxGeometry x="72" y="195.5" width="100" height="100" as="geometry">
+            <mxPoint x="72" y="295.5" as="sourcePoint" />
+            <mxPoint x="172" y="195.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="13" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="652" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="1" source="3" target="18" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="942" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-55" value="&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-cfe33880-7fff-56b7-d10a-62c3b7774e56&quot;&gt;&lt;span style=&quot;font-size: 22pt; font-family: calibri, sans-serif; color: rgb(192, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border: none ; display: inline-block ; overflow: hidden ; width: 175px ; height: 175px&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/jr_8Dxa4Ncj8T6o_-i6uDv2jF2OKslL8SlBJXdMhyBxnyDqUWF0vUfJ9GYzretOVHRamShLz1BjWDXPYUpYBq9j3ny80-M0h5H5tC3mUy7QSAxntCrIZosU8z4tbLNGz9sjoT8fcRiBtmcNDOg&quot; width=&quot;175&quot; height=&quot;175&quot; style=&quot;margin-left: 0px ; margin-top: 0px&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-61" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Aquellos que se modifican para su uso&lt;br&gt;Listos para utilizarse&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="690" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-63" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;" edge="1" parent="1" source="0L8pf2mrQVmB1WSLkfnK-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-62" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Aquellos que se utilizan para una&amp;nbsp;&lt;br&gt;determinación.&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="680" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-64" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Es&lt;/font&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&amp;nbsp;importante considerar que los docentes&amp;nbsp;&lt;br&gt;utilizan tres tipos de recursos&amp;nbsp;&lt;br&gt;digitales.&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="960" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0L8pf2mrQVmB1WSLkfnK-65" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;ESCUELA NORMAL SUPERIOR DEL ESTADO DE PUEBLA&lt;br&gt;NOMBRE DE LA ALUMNA: JULISA MANILLA CANALES&lt;br&gt;NOMBRE DEL MAESTRO: ALFREDO GENARO MARTINEZ Y MARTINEZ&lt;br&gt;GRADO: 2° GRUPO: &quot;B&quot;&lt;br&gt;CICLO ESCOLAR:2020-2021&lt;br&gt;&lt;/span&gt;ESPECIALIDAD EN ENSEÑANZA Y APRENDIZAJE EN TELESECUNDARIA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="50" width="590" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
