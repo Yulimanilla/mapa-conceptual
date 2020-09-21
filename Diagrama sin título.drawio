@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T22:25:20.659Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="0r7AOj1o6dhk8pqDIWbV" type="github"><diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">7VtNc5swEP01PqYDCBAca8dJDu0pnelZARlrIhAFUSf99ZWw+BRpkrETeQocbLSStWjfe7tY2CuwSZ9uC5Tvv7MY05VjxU8rcL1yHNuHgXiTluejJbCVISlIrAZ1hnvyByujpawViXE5GMgZo5zkQ2PEsgxHfGBDRcEOw2E7Rodec5RgzXAfIapbf5KY79UqPKuz32GS7BvPtqV6HlD0mBSsypS/lQN29XHsTlEzlxpf7lHMDj0T2K7ApmCMH8/Spw2mMrZN2I6fu3mht73uAmf8LR9wkLULwYMXQYB3AYZXaobfiFa4WUJ9ofy5CQ4lmThbl7xgj214BHJgHZNCoEFYJgwlq2THes9TKvvF6Y5QumGUFaKdsXqSHcu4gt8Gqt0MEbGz6kPYESWJnDUS68JF67039OvWtYGI31oPQbMmXHD81DOpkNxilmJePIshqhf4Ch5FX6iah44LDVP3PRqEoTIiRb+knbmDQJwoFN6IiPM6IjXhcKzCfNgTju9zFMnegxDoEIVh5BQOIzBHYInw3jghsLevI3ZTH1OIJQWKCe4GK8+N+brHHYxKEdK1BIwIUX5VU3Eml9JKxj4P2DYcgm0DT0O71Wsf7sD7ALSBhratwS0Wxt+A6YTcNFDGIU5JHEs3kyTqQQ+sf0B/DlCCESh+oIHiTmDifIQC3YtQoG1BEP6XCgTuEGzH0/Pt5ynQ09DW4Z6BAoE3AiUA5hToX4QC51MD2xsgIwqEGtpgjgoc10AQGlRgcBEKnE8NdKHJu9BQQ9udowLHNdCzDN6FNt84lyL4SUXQC00WQVvfifHmqMFxFfQdg1XQvozNmPmUQWiZLIO2vhvjz1GD4zoIgck6eBnbMfOpgwEwWgf1/Rg4Rw2O62Dgm6yDl7EhM586GLpG66C+IxPMUYPjOhhCk3VwakvGpzUGYhl+Is/usCByljQdwknX1xjzxvCNFTiVLvOyku9xHUUBMuHy4sUlrxxxnfKpeylkgXkle4WDnJQkqt1YmBI1qhTal3NII6nKlMkmx2lez0myiMQkrjI5dSVfKHoQ/uVo3viWrRQlGZJuKPlVoS+9leTdQl6nouCMvEBw7XWtH1K611eO9QKzmGDGjtay3gsG4uxticqdZvk41dSPt+GRmz0Oh+9JX2fgdEvO9vFnqHHa9idIDeFHkFrfeVpIvZD6vaR2rSGpHc81SGpnauduIfVC6tMyNfCNknrql2ILqRdSv/OWOhyS2oUmbz+ar7ELqRdSnzFTe6HRTK3vYi+kXkh9aqaGltFMPfUUYCH1QurTMnUAjGZq/VnHQuqF1Kdm6nDi99TnIrVodv9Wqvt6fwkD278=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-21T23:15:03.130Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ELv3ZKuo79ACkBbs8N5I" version="13.7.3" type="github">
+  <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
+    <mxGraphModel dx="1718" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#143642;align=center;strokeColor=#0F8B8D;labelBackgroundColor=#DAD2D8;" parent="1" vertex="1">
+          <mxGeometry x="360" y="70" width="10" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;strokeWidth=6;fillColor=#FAE5C7;labelBackgroundColor=#DAD2D8;fontColor=#143642;" edge="1" parent="1" source="2a0f93b5c73ef8e7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-2" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#99004d&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Desde currículo:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#99004d&quot;&gt;Disciplinares&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#99004d&quot;&gt;Transversales.&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="170" y="120" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="170" y="353" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="345" y="490" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="170" y="590" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-12" value="&lt;font color=&quot;#99004d&quot;&gt;Competencias iniciales:&lt;br&gt;La transición de una practica supervisada a a independencia&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="330" y="720" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontSize=13;fontColor=#143642;align=center;gradientDirection=east;verticalAlign=top;shadow=1;strokeColor=#0F8B8D;" parent="1" vertex="1">
+          <mxGeometry x="170" y="830" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;fillColor=#FAE5C7;strokeColor=#A8201A;labelBackgroundColor=#DAD2D8;fontColor=#143642;" edge="1" parent="1" source="2a0f93b5c73ef8e7-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-19" value="&lt;h1&gt;&lt;font color=&quot;#99004d&quot;&gt;Competencias genéricas&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 12px&quot;&gt;Para la vida&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 12px&quot;&gt;Académicas&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;fontSize=9;fontColor=#143642;align=center;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-20" value="&lt;h1&gt;&lt;font color=&quot;#99004d&quot;&gt;Desde la formación profesional.&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 11px&quot;&gt;-Complejas o profesionales.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 11px&quot;&gt;-Derivadas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 11px&quot;&gt;-Subcompetencias&amp;nbsp; o competencias genéricas.&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;fontSize=9;fontColor=#143642;align=center;" parent="1" vertex="1">
+          <mxGeometry x="175" y="360" width="200" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;&lt;font color=&quot;#330066&quot;&gt;Desde el desempeño disciplinar&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;fontSize=9;fontColor=#143642;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="510" width="190" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;&lt;font color=&quot;#99004d&quot;&gt;Competencias básicas:&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#99004d&quot;&gt;La transición en los 5 años de estudio en la universidad.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;fontSize=9;fontColor=#143642;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="590" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-24" value="&lt;h1&gt;&lt;font color=&quot;#99004d&quot;&gt;Competencias avanzadas:&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#99004d&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Las que se pueden mostrar después de 5 años de practica independiente&lt;/font&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;fontSize=9;fontColor=#143642;align=center;" parent="1" vertex="1">
+          <mxGeometry x="170" y="830" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-1" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b style=&quot;background-color: rgb(102 , 255 , 179)&quot;&gt;COMPETENCIAS EN LA EDUCACION&lt;/b&gt;&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#FAE5C7;fontColor=#143642;strokeWidth=2;strokeColor=#0F8B8D;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-20" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-10" value="&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot;&gt;Desarrollo de procesos de pensamientos vinculados a una disciplina.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#99004d&quot;&gt;Vinculadas al ámbito de desempeño profesional.&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#0F8B8D;strokeWidth=2;fillColor=#FAE5C7;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="240" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-11" value="&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 13px&quot;&gt;Aquellas cuya formación permitirá el mejor desempeño ciudadano.&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#0F8B8D;strokeWidth=2;fillColor=#FAE5C7;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-12" value="&lt;span style=&quot;background-color: rgb(26 , 26 , 26)&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Nombre de la alumna: Julisa Manilla Canales&lt;br&gt;Nombre de la maestra: Silvia Flores Pérez&lt;br&gt;Escuela Normal Superior Del Estado De Puebla.&lt;br&gt;Materia: Planeación y Evaluación.&lt;br&gt;Grado: 2° Grupo: &quot;B&quot;&lt;br&gt;Ciclo escolar: 2020-2021&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-140" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DbkFNqEy8b7lrigE63-R-13" value="&#xa;&#xa;&lt;img src=&quot;https://ensep.edu.mx/wp-content/uploads/2016/09/ensep150.png&quot; alt=&quot;ensep.edu&quot;&gt;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-200" width="530" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
